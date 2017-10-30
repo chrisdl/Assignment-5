@@ -9,8 +9,9 @@
 - Write at least six different lines of pseudocode and display them inline as JavaScript comments **(DONE)**
 - Prevent a form submission using the ```event.preventDefault()``` function **(DONE)**
 - Use the ```$.ready()``` handler to delay your code from executing until all DOM assets have been loaded **(DONE)**
-- Get the first element from an attribute name using ```$.attr()```
+- Get the first element from an attribute name using ```$.attr()``` ***(Used removeClass and addClass instead)***
 - Use the ```||``` operator in your conditionals to allow for multiple string values to execute ```if/else if``` statement code **(DONE)**
+
 - If a user submits:
 
   - "New York" or "New York City" or "NYC" make the background of the page nyc.jpg **(DONE)**
